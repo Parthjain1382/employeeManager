@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Employee" representedClassName="Employee" syncable="YES" codeGenerationType="class">
+        <attribute name="dob" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="emp_age" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="emp_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="profileImg" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+    </entity>
+</model>
